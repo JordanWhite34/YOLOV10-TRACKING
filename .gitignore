@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/
+*.pkl
+*.h5
+*.log
+.DS_Store
+env/
+yolov10-env/
+
